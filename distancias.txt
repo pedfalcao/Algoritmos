@@ -1,0 +1,179 @@
+﻿Recife, Olinda, 13.7
+Recife, Cabo de Agostinho, 32
+Recife, Camaragibe, 7.7
+Olinda, Paulista, 8.7
+Paulista, Abreu e Lima, 6.0
+Abreu e Lima, Igarassu, 11.0
+Igarassu, Itapissuma, 8.2
+Itapissuma, Ilha de Itamaracá, 6.8
+Igarassu, Araçoiaba, 29.6
+Itapissuma, Goiana, 32.7
+Goiana, Condado, 10.9
+Goiana, Itambé, 24.3
+Itambé, Condado, 23.9 
+Condado, Itaquitinga, 13.9
+Condado, Aliança, 17.3
+Igarassu, Araçoiaba, 29.6
+Aliança, Timbaúba, 16.3
+Timbaúba, Ferreiros, 11.4
+Ferreiros, Camutanga, 6.6
+Timbaúba, Macaparana, 20.3
+Macaparana, São Vicente Ferrer, 7.7
+São Vicente Ferrer, Vicência, 27.5
+Vicência, Aliança, 16.9
+Vicência, Buenos Aires, 11.6
+Buenos Aires, Nazaré da Mata, 13.7
+Nazaré da Mata, Itaquitinga, 20.9
+Nazaré da Mata, Tracunhaém, 8.0
+Tracunhaém, Carpina, 5.4
+Carpina, Paudalho, 10.8
+Carpina, Lagoa do Carro, 7.8
+Lagoa do Carro, Limoeiro, 17.5
+Limoeiro, Feira Nova, 11.3
+Feira Nova, Lagoa de Itaenga, 14.9
+Lagoa de Itaenga, Carpina, 13.7
+Paudalho, Chã de Alegria, 15.8
+Chã de Alegria, Glória do Goitá, 12.4
+Glória do Goitá, Feira Nova, 13.6
+Glória do Goitá, Vitória de Santo Antão, 20.0
+Paudalho, São Lourenço da Mata, 24.0
+São Lourenço da Mata, Camaragibe, 6.5
+Jaboatão dos Guararapes, Moreno, 27.8
+Moreno, Vitória de Santo Antão, 23.3
+São Vicente Ferrer, Machados, 19.3
+Machados, Orobó, 16.1
+Orobó, Bom Jardim, 8.7
+Bom Jardim, João Alfredo, 12.3
+João Alfredo, Salgadinho, 15.1
+Salgadinho, Passira, 14.9
+Passira, Limoeiro, 22.1
+Feira Nova, Glória do Goitá, 13.6
+João Alfredo, Surubim, 23.4
+Surubim, Vertente do Lério, 15.9
+Surubim, Santa Maria do Cambucá, 17.1
+Santa Maria do Cambucá, Vertentes, 13.2
+Vertentes, Frei Miguelinho, 10.5
+Frei Miguelinho, Santa Maria do Cambucá, 13.6
+Vertentes, Toritama, 14.9
+Vertentes, Taquaritinga do Norte, 9.8
+Taquaritinga do Norte, Santa Cruz do Capibaribe, 23.9
+Santa Cruz do Capibaribe, Jataúba, 37.0
+Jataúba, Brejo da Madre de Deus, 24.9
+Jataúba, Poção, 39.9
+Poção, Pesqueira, 28.0
+Caruaru, Toritama, 20.8
+Caruaru, Riacho das Almas, 33.7
+Caruaru, Bezerros, 47.7
+Riacho das Almas, Cumaru, 25.1
+Cumaru, Passira, 16.6
+Bezerros, Gravatá, 23.4
+Bezerros, Sairé, 18.8
+Sairé, Camocim de São Félix, 16.3
+Camocim de São Félix, Agrestina, 31.3
+Camocim de São Félix, Bonito, 17.6
+Camocim de São Félix, Barra de Guabiraba, 19.0
+Bonito, Barra de Guabiraba, 15.4
+Barra de Guabiraba, Cortês, 18.0
+Cortês, Ribeirão, 27.2
+Ribeirão, Sirinhaém, 40.0
+Ribeirão, Gameleira, 8.9
+Gameleira, Rio Formoso, 31.4
+Rio Formoso, Sirinhaém, 11.5
+Rio Formoso, Tamandaré, 17.8
+ Tamandaré, Barreiros, 16.2
+Barreiros, São José da Coroa Grande, 10.6
+Tamandaré, Água Preta, 53.8
+Água Preta, Palmares, 9.9
+Palmares, Joaquim Nabuco, 12.0
+Joaquim Nabuco, Ribeirão, 26.3
+Palmares, Xexéu, 18.3
+Xexéu, Maraial, 44.2
+Palmares, Catende, 20.2
+Jaqueira, Catende, 14.7
+Jaqueira, Maraial, 8.4
+Jaqueira, São Benedito do Sul, 27.0
+São Benedito do Sul, Quipapá, 11.4
+Catende, Belém de Maria, 21.1
+Belém de Maria, Lagoa dos Gatos, 18.0
+Lagoa dos Gatos, Jaqueira, 36.8
+Lagoa dos Gatos, Cupira, 8.6
+Cupira, Panelas, 9.6
+Panelas, Jurema, 20.4
+Jurema, Quipapá, 24.8
+Belém de Maria, Camocim de São Félix, 38.0
+Camocim de São Félix, Sairé, 16.3
+Cabo de Santo Agostinho, Ipojuca, 17.2
+Ipojuca, Sirinhaém, 26.0
+Ipojuca, Escada, 22.4
+Cabo de Santo Agostinho, Moreno, 28.0
+Cabo de Santo Agostinho, Vitória de Santo Antão, 49.1
+Escada, Primavera, 19.9
+Primavera, Pombos, 32.1
+Primavera, Amaraji, 16.4
+Amaraji, Chã Grande, 20.7
+Chã Grande, Gravatá, 15.4
+Chã Grande, Pombos, 20.4
+Amaraji, Ribeirão, 23.5
+Agrestina, Altinho, 14.2
+Agrestina, Cupira, 18.6
+Agrestina, São Joaquim do Monte, 18.3
+São Joaquim do Monte, Camocim de São Félix, 13.5
+Altinho, Ibirajuba, 17.8
+Ibirajuba, Panelas, 27.8
+Ibirajuba, Lajedo, 23.5
+Lajedo, Calçado, 21.5
+Lajedo, Jupi, 13.2
+Jupi, Calçado, 13.1 
+Jupi, Jucati, 8.3
+Capoeiras, Jucati, 18.2
+Capoeiras, São Bento do Una, 33.6
+São Bento do Una, Belo Jardim, 24.2
+Belo Jardim, São Caetano, 33.8
+São Caetano, Caruaru, 48.7
+Belo Jardim, Sanharó, 16.6
+Sanharó, Pesqueira, 16.7
+Pesqueira, Alagoinha, 16.4
+Alagoinha, Venturosa, 17.7
+Venturosa, Pedra, 12.3
+Pedra, Buíque, 42.6
+Buíque, Tupanatinga, 25.7
+Tupanatinga, Águas Belas, 60.9
+Buíque, Águas Belas, 80.2
+Venturosa, Caetés, 39.4
+Caetés, Capoeiras, 5.7
+Águas Belas, Iati, 39
+Iati, Paranatama, 36.2
+Iati, Saloá, 34.4
+Paranatama, Saloá, 15.2
+Saloá, Terezinha, 17
+Terezinha, Bom Conselho, 17.1
+Terezinha, Brejão, 9.3
+Brejão, Lagoa do Ouro, 35.2
+Lagoa do Ouro, Correntes, 16.4
+Correntes, Palmeirina, 25
+Brejão, Garanhuns, 24
+Caetés, Garanhuns, 19.1
+Garanhuns, São João, 15.6
+Garanhuns, Jucati, 31.8
+Garanhuns, Correntes, 47.1
+Palmeirina, Angelim, 17.1
+Angelim, São João, 11
+Angelim, Canhotinho, 12.5
+Canhotinho, Jurema, 38.5
+Pesqueira, Arcoverde, 43.2
+Buíque, Arcoverde, 27.3
+Arcoverde, Sertânia, 57.8
+Sertânia, Tuparetama, 68
+Tuparetama, São José do Egito, 19.1
+São José do Egito, Brejinho, 14.5
+Brejinho, Itapetim, 15.5
+São José do Egito, Itapetim, 18.3
+Gravatá, Pombos, 22.4
+Pombos, Vitória de Santo Antão, 44.7
+Altinho, Caruaru, 34.4
+Catende, Cupira, 33.8
+Cachoeirinha, São Caetano, 22.7
+Cachoeirinha, Lajedo, 21.3
+Canhotinho, Lajedo, 32.2
+Panelas, Quipapá, 19.5
+Recife, Jaboatão dos Guararapes, 18
