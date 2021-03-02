@@ -1,3 +1,4 @@
+#Hash Table
 class Hash:
     def __init__(self):
         self.hash = self.inicio()
